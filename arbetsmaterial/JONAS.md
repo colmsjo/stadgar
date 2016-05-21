@@ -27,7 +27,7 @@ Förkortningar:
 
 ## Allmänna bestämmelser
 
-§1. Ändamål
+### §1. Ändamål
 
 Svenska Dartförbundet (SvDF) och dess medlemmar har till uppgift att sprida och
 utveckla dartsporten i Sverige.
