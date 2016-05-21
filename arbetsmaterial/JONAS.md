@@ -30,18 +30,28 @@ Förkortningar:
 §1. Ändamål
 Svenska Dartförbundet (SvDF) och dess medlemmar har till uppgift att sprida och
 utveckla dartsporten i Sverige.
-Dartsporten skall organiseras efter demokratiska principer, och på så sätt att den i möjligaste mån blir tillgänglig för alla.
-Svenska Dartförbundet (SvDF) skall verka för en dopingfri idrott i linje med Riksidrottsförbundet (RF) och World Dart Federation (WDF).
-Specialdistriktsförbund (SDF) som representerar ett större geografiskt område än ett RF-Distrikt (DF) skall långsiktigt arbeta för en uppdelning.
+
+Dartsporten skall organiseras efter demokratiska principer, och på så sätt att
+den i möjligaste mån blir tillgänglig för alla.
+
+Svenska Dartförbundet (SvDF) skall verka för en dopingfri idrott i linje med
+Riksidrottsförbundet (RF) och World Dart Federation (WDF).
+
+Specialdistriktsförbund (SDF) som representerar ett större geografiskt område
+än ett RF-Distrikt (DF) skall långsiktigt arbeta för en uppdelning.
 
 §2. Sammansättning
-Svenska Dartförbundet (SvDF) består av de ideella föreningar som enligt §33 har upptagits i Svenska Dartförbundet (SvDF) som medlemmar.
+Svenska Dartförbundet (SvDF) består av de ideella föreningar som enligt §33 har
+upptagits i Svenska Dartförbundet (SvDF) som medlemmar.
 
 §3. Tillhörighet
-Svenska Dartförbundet (SvDF) är medlem i Sveriges Riksidrottsförbund (RF) samt World Darts Federation (WDF). Svenska Dartförbundet (SvDF) skall följa dessa organisationers stadgar.
+Svenska Dartförbundet (SvDF) är medlem i Sveriges Riksidrottsförbund (RF)
+samt World Darts Federation (WDF). Svenska Dartförbundet (SvDF) skall följa
+dessa organisationers stadgar.
 
 §4. Beslutande organ
-Svenska Dartförbundets (SvDF) beslutande organ är förbundsstämman, extra förbundsstämman och förbundsstyrelsen (FS).
+Svenska Dartförbundets (SvDF) beslutande organ är förbundsstämman, extra f
+örbundsstämman och förbundsstyrelsen (FS).
 
 §5. Specialdistriktsförbund (SDF)
 Svenska Dartförbundets (SvDF) regionala organ är Specialdistriktsförbund (SDF).
@@ -175,7 +185,7 @@ Om arbetstagares valbarhet stadgas i 14§.
 
 ## Förbundsstyrelsen (FS)
 
-26. Sammansättning samt kallelse och beslutsmässighet
+§26. Sammansättning samt kallelse och beslutsmässighet
 Förbundsstyrelsen (FS) är, när förbundsstämma inte är samlad, förbundets beslutande organ.
 För alla beslut krävs enkel majoritet och att minst 50% av FS ledarmöter är närvarande.
 Styrelsen tillsätter sekreterare inom sig.
@@ -183,7 +193,7 @@ Styrelsen sammanträder på kallelse av ordföranden. Röstning får inte ske ge
 Styrelsen får överlåta sin beslutanderätt i vissa av ärenden till utskott som utses inom styrelsen, till kommitté eller annat organ som har tillsatts för särskild uppgift eller på enskild styrelseledamot eller anställd.
 Den som fattat beslut med stöd av bemyndigande enligt föregående stycke skall regelbundet underrätta syrelsen härom.
 
-27. Förbundsstyrelsen (FS) åligganden
+§27. Förbundsstyrelsen (FS) åligganden
 Åt förbundsstyrelsen åligger bl.a:
 Att bedriva sin verksamhet enligt dessa stadgar och förbundsstämmans beslut
 Att verka för dartsportens utveckling och utbredning inom Sverige samt gentemot utlandet
@@ -205,30 +215,30 @@ Att på begäran av Riksidrottsförbundets styrelse (RS) lämna sådana upplysni
 Att se till att Svenska Dartförbundets (SvDF:s)aktuella stadgar och styrelseprotokoll läggs upp på hemsidan
 Att på alla tänkbara sätt hjälpa föreningarna i deras arbete med erforderliga dokument och handlägga löpande ärenden i övrigt.
 
-28. Prövningsrätt
+§28. Prövningsrätt
 Förbundsstyrelsen (FS) utövar prövningsrätt enligt 14 och 15 kap Riksidrottsförbundets (RF:s) stadgar.
 Med stöd av 14 kap 8§ första stycket Riksidrottsförbundets (RF:s) stadgar förbehålls förbundsstyrelsen bestraffningsrätten avseende samtliga förseelser.
 Förbundsstyrelsen får enligt 14 kap 8§ fjärde stycket Riksidrottsförbundets (RF:s) stadgar överlåta sin bestraffningsrätt till något av sina organ.
 
 ## Specialdistriktsförbund (SDF)
 
-29. Specialdistriktsförbund (SDF)
+§29. Specialdistriktsförbund (SDF)
 Specialdistriktsförbund (SDF), som är ideella föreningar, skall enligt dessa (SvDF:s) stadgar och Specialdistriktsförbundets (SDF:s) stadgar arbeta såsom Svenska Dartförbundets regionala organ i enlighet med Svenska Dartförbundets ändamål enligt §1.
 Dartsportens SDF är indelat utifrån av Förbundsstyrelsen (FS) beslutade sammanslagningar av DF med dartverksamhet. Dessa är organ för Svenska Dartförbundets regionala verksamhet.
 Förening tillhör det Specialdistriktsförbund (SDF) inom vars geografiska område föreningen har sin hemort.
 
-30. Specialdistriktsförbundens (SDF) gränser
+§30. Specialdistriktsförbundens (SDF) gränser
 Specialdistriktsförbunden (SDF) skall om möjligt representera samma geografiska område som ett RF-Distrikt (DF). Är detta inte möjligt skall befintligt Specialdistriktsförbund tillsammans med annat ansöka hos Förbundsstyrelsen om sammanslagning.
 Specialdistriktsförbundens (SDF) namn skall om det sammanfaller med samma geografiska utbredning som ett RF-Distrikt (DF) bära samma geografiska namn. Om Specialdistriktsförbundet är en sammanslagning av flera RF-Distrikt (DF) skall de bära ett namn som geografiskt beskriver dess lokalisering. Namnet skall godkännas av Förbundsstyrelsen (FS).
 Alla Specialdistriktsförbund (SDF) skall heta Dartförbund.
 
-31. Specialdistriktsförbundens (SDF:s) stadgar
+§31. Specialdistriktsförbundens (SDF:s) stadgar
 Specialdistriktsförbundens (SDF:s) stadgar skall följa de av Svenska Dartförbundet (SvDF) fastslagna och av Riksidrottsförbundets styrelse (RS) granskade normalstadgar för Specialdistriktsförbund (SDF).
 Svenska Dartförbundet skall godkänna de av Specialdistriktsförbunds (SDF:s) -mötet antagna stadgarna. Svenska Dartförbundet har rätt att påtala ändring av stadgarna om de strider mot normalstadgarna eller på annat sätt anses vara olämpliga.
 
 ## Föreningarna
 
-33. Medlemskap i Svenska Dartförbundet (SvDF)
+§33. Medlemskap i Svenska Dartförbundet (SvDF)
 Ideell förening får efter skriftlig ansökan upptas som medlem i Svenska Dartförbundet (SvDF) om samtliga av nedanstående villkor är uppfyllda.
 Ansökningen om medlemskap är upprättad enligt Riksidrottsförbundet (RF:s) anvisningar och är åtföljd av föreningens stadgar.
 Föreningen på sitt program har sådan dartverksamhet som innefattas i förbundet.
@@ -237,7 +247,7 @@ Föreningens namn inte är olämpligt eller kan förväxlas med en till Riksidro
 Föreningen har betalat de avgifter som i vederbörlig ordning har bestämts.
 Lämnas förenings ansökan utan bifall, får föreningen överklaga beslutet enligt reglerna i 15 kap Riksidrottsförbundets (RF:s) stadgar
 
-34. Utträde samt uteslutning av förening
+§34. Utträde samt uteslutning av förening
 Förening som önskar utträda ur Svenska Dartförbundet (SvDF), skall skriftligen anmäla detta. Har föreningen inte betalat föreskrivna avgifter, bestämmer förbundsstyrelsen (FS) om de skall betalas eller inte.
 Förening som inte har betalat årsavgift under två på varandra följande år, får anses ha begärt sitt utträde. Medlemskap upphör i sådant fall genom att föreningen avförs från medlemsförteckningen.
 Utan att anmälan om utträde föreligger får förening uteslutas om den – trots påminnelser underlåter att följa vad som föreskrivs i dessa (SvDF) stadgar eller Riksidrottsförbundets (RF:s) stadgar.
@@ -245,13 +255,13 @@ Förening får också uteslutas, om den har underlåtit att rätta sig efter bes
 Fråga om uteslutning får inte avgöras förrän föreningen har fått tillfälle att yttra sig inom av förbundsstyrelsen (FS) angiven tid. I beslut om uteslutning skall skälen här för redovisas samt anges vad den uteslutna föreningen skall iaktta för överklagande av beslutet.
 Beslut om uteslutning får överklagas enligt reglerna i 15 kap Riksidrottsförbundets (RF:s) stadgar.
 
-35. Specialdistriktsförbundstillhörighet
+§35. Specialdistriktsförbundstillhörighet
 Förening tillhör dels det Specialdistriktsförbund (SDF) inom vars område föreningens hemort är belägen och dels det RF-Distrikt (DF) inom vilket föreningens hemort är belägen.
 
-36. Rösträtt vid Specialdistriktsförbundsmöte
+§36. Rösträtt vid Specialdistriktsförbundsmöte
 Om förenings rösträtt vid Specialdistriktsförbunds (SDF)-möte föreskrivs i Specialdistriktsförbundets (SDF:s) stadgar.
 
-37. Åligganden
+§37. Åligganden
 Förening skall
 Följa Riksidrottsförbundets (RF:s) stadgar samt Svenska Dartförbundets (SvDF:s) stadgar, tävlingsbestämmelser, seriebestämmelser, bestraffningsbestämmelser,  övriga bestämmelser och beslut fattade av överordnat idrottsorgan,
 årligen betala årsavgift och avge årsrapport samt till Svenska Dartförbundet(SvDF) insända sin verksamhetsredovisning och årsbokslut för sist förflutna verksamhetsår.
@@ -260,26 +270,26 @@ föra räkenskaper och upprätta verksamhetsberättelse med resultat- och balans
 hålla årsmöte och härvid, efter verkställd revision, besluta om ansvarsfrihet för styrelsens förvaltning för det gångna året
 på begäran av Riksidrottsförbundets styrelse(RS), förbundsstyrelsen (FS) eller vederbörande Regionsstyrelsen (SDFS)- eller DFstyrelse ställa föreningens handlingar till förfogande, samt lämna av dessa organ begärda uppgifter.
 
-38. Medlemmar i förening
+§38. Medlemmar i förening
 Enskild person upptas som medlem i förening efter ansökan.
 Ansökan om medlemskap får avslås endast om det kan antas att sökanden kommer att motarbeta föreningens ändamål eller intressen.
 Medlem får inte uteslutas av annan anledning än att medlemmen har försummat att betala stadgade avgifter till föreningen, motarbetat dess verksamhet eller ändamål, eller uppenbarligen skadat föreningen intressen.
 Beslut om vägrat medlemskap eller om uteslutning skall fattas av föreningsstyrelsen och får av den berörde överklagas till förbundsstyrelsen (FS) enligt reglerna i Riksidrottsförbundets (RF:s) stadgar.
 Medlem har rätt att delta i föreningens idrottsliga verksamhet under de former som är vedertagna inom idrotten och på samma villkor som gäller för övriga medlemmar.
 
-39. Spelarlicens
+§39. Spelarlicens
 För deltagande i av Svenska Dartförbundet (SvDF), Regionen (SDF) eller Dartdistriktet (DD) sanktionerad eller arrangerad tävling krävs, om ej annat sägs i Svenska Dartförbundets (SvDF:s) tävlingsbestämmelser, att spelaren innehar spelarlicens i Svenska Dartförbundet (SvDF) för en i Svenska Dartförbundet (SvDF) registrerad förening. Rapportering av spelaruppgifter skall ske i enlighet med av förbundsstyrelsen (FS) meddelad ordning.
 
 ## Revisorer och revision
 
-40. Revisorer och revision
+§40. Revisorer och revision
 
 Svenska Dartförbundets verksamhet, förvaltning och räkenskaper skall revideras av en auktoriserade eller godkänd revisor, och en medlemsrevisor.
 Förbundsstyrelsens (FS) räkenskaper och övriga handlingar överlämnas till revisorerna senast den 15 juni årligen. Handlingarna skall sedan efter verkställd revision med revisorernas berättelse vara förbundsstyrelsen tillhanda senast den 15 juli.
 
 ## Tävlingsbestämmelser och föreskrifter
 
-41. Tävlingsbestämmelser
+§41. Tävlingsbestämmelser
 
 	Utöver dessa stadgar hänvisas till SvDF:s övriga bestämmelser och föreskrifter, bland vilka märks:
 	– SvDF:s tävlingsbestämmelser.
