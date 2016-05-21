@@ -1,4 +1,4 @@
-# Stadgar för Svenska Frisbeesportförbundet
+# Omarbetning av Stadgar för Svenska Frisbeesportförbundet
 
 Innehåll:
 
