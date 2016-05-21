@@ -245,29 +245,29 @@ med i kallelsen till stämman
 
 Vid förbundsstämman skall följande ärenden förekomma:
 
-* Upprop samt fastställande av röstlängd för mötet.
-* Fastställande av föredragningslista för mötet.
-* Fråga om mötet är behörigen utlyst
-* Val av ordförande för mötet.
-* Val av sekreterare för mötet.
-* Val av två protokolljusterare att jämte mötesordföranden, justera mötesprotokoll samt erforderligt antal rösträknare.
-* Behandling av verksamhetsredovisning och årsbokslut
-* Behandling av revisorernas berättelse för samma tid.
-* Fråga om ansvarsfrihet för förbundsstyrelsens förvaltning för det  gångna året.
-* Behandling av förslag till verksamhetsinriktning och ekonomiskt plan för kommande period och av styrelsens förslag och av motioner som getts in i den ordning som sägs i 22§.
-* Val på två år av förbundsordförande tillika styrelsens ordförande.
-* Val på två år av vice ordförande
-* Val på två år av kassör (Förbundsordförande och kassör väljs växelvis.)
-* Val på två av fyra övriga styrelseledamöter vilka bör företrädande fyra olika Specialdistriktsförbund (SDF). (Dessa väljs växelvis.)
-* Val på två år av fyra  suppleanter vilka bör företrädande fyra olika Specialdistriktsförbund (SDF). (Dessa väljs växelvis.
-* Val på två år av auktoriserad revisor
-* Val av medlemsrevisor samt en suppleant för denne (båda för en tid av ett år)
-* Eventuella fyllnadsval för återstoden av mandattiden vid funktionärs frånträde.
-* Val på ett år av fyra ledamöter i valberedningen vilka bör företräda fyra olika Specialdistriktsförbund (SDF)
-* Fastställande av avgifter till Svenska Dartförbundet (SvDF)
-* Fastställande av verksamhetsplan för Svenska Dartförbundet (SvDF).
-* Fastställande av inkomst- och utgiftstat (Budget) för nästkommande år.
-* Beslut om val av ombud till Riksidrottsförbundets (RF:s) stämma och erfoderligt antal suppleanter.
+1. Upprop samt fastställande av röstlängd för mötet.
+1. Fastställande av föredragningslista för mötet.
+1. Fråga om mötet är behörigen utlyst
+1. Val av ordförande för mötet.
+1. Val av sekreterare för mötet.
+1. Val av två protokolljusterare att jämte mötesordföranden, justera mötesprotokoll samt erforderligt antal rösträknare.
+1. Behandling av verksamhetsredovisning och årsbokslut
+1. Behandling av revisorernas berättelse för samma tid.
+1. Fråga om ansvarsfrihet för förbundsstyrelsens förvaltning för det  gångna året.
+1. Behandling av förslag till verksamhetsinriktning och ekonomiskt plan för kommande period och av styrelsens förslag och av motioner som getts in i den ordning som sägs i 22§.
+1. Val på två år av förbundsordförande tillika styrelsens ordförande.
+1. Val på två år av vice ordförande
+1. Val på två år av kassör (Förbundsordförande och kassör väljs växelvis.)
+1. Val på två av fyra övriga styrelseledamöter vilka bör företrädande fyra olika Specialdistriktsförbund (SDF). (Dessa väljs växelvis.)
+1. Val på två år av fyra  suppleanter vilka bör företrädande fyra olika Specialdistriktsförbund (SDF). (Dessa väljs växelvis.
+1. Val på två år av auktoriserad revisor
+1. Val av medlemsrevisor samt en suppleant för denne (båda för en tid av ett år)
+1. Eventuella fyllnadsval för återstoden av mandattiden vid funktionärs frånträde.
+1. Val på ett år av fyra ledamöter i valberedningen vilka bör företräda fyra olika Specialdistriktsförbund (SDF)
+1. Fastställande av avgifter till Svenska Dartförbundet (SvDF)
+1. Fastställande av verksamhetsplan för Svenska Dartförbundet (SvDF).
+1. Fastställande av inkomst- och utgiftstat (Budget) för nästkommande år.
+1. Beslut om val av ombud till Riksidrottsförbundets (RF:s) stämma och erfoderligt antal suppleanter.
 
 ### §22. Förslag till ärenden att behandlas vid förbundsstämma
 
