@@ -28,6 +28,7 @@ Förkortningar:
 ## Allmänna bestämmelser
 
 §1. Ändamål
+
 Svenska Dartförbundet (SvDF) och dess medlemmar har till uppgift att sprida och
 utveckla dartsporten i Sverige.
 
@@ -41,34 +42,42 @@ Specialdistriktsförbund (SDF) som representerar ett större geografiskt område
 än ett RF-Distrikt (DF) skall långsiktigt arbeta för en uppdelning.
 
 §2. Sammansättning
+
 Svenska Dartförbundet (SvDF) består av de ideella föreningar som enligt §33 har
 upptagits i Svenska Dartförbundet (SvDF) som medlemmar.
 
 §3. Tillhörighet
+
 Svenska Dartförbundet (SvDF) är medlem i Sveriges Riksidrottsförbund (RF)
 samt World Darts Federation (WDF). Svenska Dartförbundet (SvDF) skall följa
 dessa organisationers stadgar.
 
 §4. Beslutande organ
+
 Svenska Dartförbundets (SvDF) beslutande organ är förbundsstämman, extra f
 örbundsstämman och förbundsstyrelsen (FS).
 
 §5. Specialdistriktsförbund (SDF)
+
 Svenska Dartförbundets (SvDF) regionala organ är Specialdistriktsförbund (SDF).
 
 §6.  Stadgeändring
+
 	6:1	För beslut om tillägg till eller ändring av dessa stadgar fordras att årsmöte med minst 2/3 av antalet avgivna röster bifaller sådant förslag om tillägg eller ändring.
 	6:2	För ändring av kapitlen 6 och 7 dessa stadgar krävs att två på varandra följande ordinarie årsmöten, med minst 2/3 av antalet avgivna röster vid vardera, bifaller sådant ändringsförslag.
 
 §7. Upplösning av Svenska Dartförbundet
+
 7:1	För beslut om upplösning av Svenska Dartförbundet krävs att två på varandra följande ordinarie årsmöten, med minst 2/3 av antalet avgivna röster vid vardera, bifaller sådant förslag om upplösning.
 7:2	Vid upplösning av Svenska Dartförbundet skall ansvaret för tillgångarnas fördelning överlåtas till SDF:s revisorer.
 7:3	Beslut om upplösning skall innehålla hur SDF:s tillgångar skall fördelas.
 
 §8. Stadgetolkning
+
 Uppstår tvekan om tolkningen av dessa stadgar, eller om fall förekommer som inte är förutsett i stadgarna, hänskjuts frågan till nästkommande förbundsstämma eller avgörs i trängande fall av förbundsstyrelsen (FS).
 
 §9. Beslut och omröstning
+
 Beslut fattas med bifallsrop (acklamation) eller om så begärs efter omröstning (votering).
 Med undantag för de i §6 och §7 nämnda fallen avgörs vid omröstning alla frågor genom enkel majoritet. Enkel majoritet kan vara antingen absolut eller relativ.
 Val avgörs genom relativ majoritet. Med relativ majoritet menas att den (de) som erhållit högsta antalet röster är vald (valda) oberoende av hur dessa röster förhåller sig till antalet avgivna röster.
@@ -79,60 +88,72 @@ I det fall två förslag erhåller lika röstetal och ingetdera förslaget inneb
 Beslut bekräftas med klubbslag.
 
 §10. Firmateckning
+
 Förbundets firma tecknas av förbundsstyrelsen (FS) eller, om styrelsen så beslutar, av två styrelseledamöter gemensamt eller var för sig.
 
 §11. Hedersmedlem
+
 Till hedersmedlem i Svenska Dartförbundet (SvDF) kan utses person som genom sina förtjänstfulla insatser som spelare eller funktionär utvecklat Dartsporten i Sverige. Hedersmedlem i SvDF är befriad från avgift vad avser licensiering i  SvDF (och med de av licensen erhållna förmåner) samt avgifter i av SvDF arrangerade tävlingar så som Svenska mästerskapen och Swedish Open
 Hedersmedlem nomineras till Förbundsstämman av Förening, Specialdistriktsförbund (SDF) eller förbundsstyrelsen (FS). Hedersmedlem utses vid förbundsstämman vart femte år i samband med Jubileumsår
 
 §12. Verksamhets- och räkenskapsår samt arbetsår
+
 Förbundets räkenskapsår omfattar tiden 1 maj – 30 april
 Förbundets verksamhetsår omfattar tiden 1 maj – 30 april
 Förbundsstyrelsens arbetsår omfattar tiden från ordinarie förbundsstämma t.o.m. nästpåföljande ordinarie förbundsstämma
 Förbundets spelår(säsong) löper från 1 september – 31 augusti
 
 §13. adjungering av styrelseledamot m.m.
+
 Förbundsstyrelsen får utse enskild person till adjungerad ledamot i styrelsen. Sådan ledamot har yttrande- och förslagsrätt men ej rösträtt.
 
 §14. Arbetstagares valbarhet
+
 Arbetstagare inom Svenska Dartförbundet (SvDF) och Specialdistriktsförbund (SDF) får inte väljas till ledamot av förbundsstyrelsen(FS) eller Specialdistriktsförbundsstyrelse (SDFS).
 Arbetstagare inom förening får inte väljas till ledamot av föreningens styrelse eller till revisor i föreningen.
 Arbetstagare inom Riksidrottsförbundets (RF:s) organisationer får inte vara revisor eller revisorssuppleant i förbund.
 
 
 §15. Mästerskapstävlingar
+
 Rätt att deltaga i tävling om RF:s mästerskapstecken – SM och JSM samt DM och JDM- har svensk medborgare som är medlem i  till förbundet ansluten förening, samt icke svensk medborgare om denne är medlem i sådan förening och är stadigvarande bosatt i Sverige sedan minst 1 år.
 
 §16. Sammansättning av  FÖRBUNDSstyrelse m.m.
+
 Svenska Dartförbundet (SvDF), dess Specialdistriktsförbund (SDF) och föreningar skall verka för att styrelse, valberedning, kommittéer och andra organ får sådan sammansättning att jämställdhet mellan kvinnor och män nås och att ungdomar ingår.
 Förbundsstyrelsen (FS)skall bestå av 7 ledamöter, varav 1 ordförande, 1 vice ordförande, 1 kassör, och 4 ledamöter som bör representera olika Specialdistriktsförbund (SDF) , här utöver ska även  4 suppleanter finnas vilka bör representeras av olika Specialdistriktsförbund (SDF)
 
 ## Förbundsstämma
 
 §17. Ombud
+
 Förbundsstämman består av ombud för föreningar inom  Specialdistriktsförbunden (SDF).
 Föreningens ombud innehar samtliga föreningens röster. Förening skall inge fullmakt för ombud. Endast ombud har rösträtt. Ombud får ej överlåta sin rösträtt.
 Uppgift på ombuds namn skall vara förbundsstyrelsen tillhanda senast två dagar före förbundsstämman.
 Endast föreningar som fullgjort sina stadgeenliga skyldigheter gentemot SvDF och i tid erlagt medlemsavgift och andra avgifter till SvDF har rösträtt.
 
 §18. Rösträtt
+
 Vid förbundsstämman har varje förening som betalt medlemsavgift en röst och ytterligare en röst för var tionde registrerad medlem den 30:e april innevarande år.
 Förening kan inte ha fler än 5 röster
 Det åligger förbundsstyrelsen att årligen per den 1 maj upprätta röstlängd att gälla för tiden 1 maj – 30 april. Röstlängd skall utsändas till föreningarna senast den 21 maj.
 
 §19. Beslutsmässighet samt yttrande- och förslagsrätt
+
 Förbundsstämman är beslutsmässigt när minst 50 % av röstberättigade röster är närvarande eller finns representerade via fullmakt och kallelse samt förberedande material skickats ut stadgeenligt.
 Yttrande- och förslagsrätt vid förbundsstämma tillkommer förutom ombuden – förbundsstyrelsens ledamöter, revisorerna, ledamöter i förbundets kommittéer och motionär i vad avser egen förenings eller Specialdistriktsförbunds (SDF) motion.
 Yttranderätt tillkommer RF:s representant och med mötets enhälliga samtycke annan närvarande.
 Vid förbundsstämma får registrerade medlemmar (representanter för föreningar, representanter från Specialdistriktsförbund (SDF) närvara.
 
 §20. Tidpunkt och kallelse till förbundsstämma
+
 Förbundsstämma hålls varje år senast i augusti månad på tid och plats som förbundsstyrelsen (FS) bestämmer.
 Kallelse till stämman utfärdas av förbundsstyrelsen (FS) dels genom kungörelse i förbundets officiella kungörelseorgan och på förbundets officiella hemsida senast två månader före mötet samt sändas till Specialdistriktsförbunden (SDF) för distribution till föreningarna.
 Förslag till föredragningslista för stämman, verksamhetsredovisning och årsbokslut, verksamhetsinriktning och ekonomisk plan för kommande period samt förbundsstyrelsen (FS) förslag (propositioner) och inkomna motioner till förbundsstämman – vilka skall vara åtföljda av förbundsstyrelsens (FS:s) yttrande- skall senast 28 dagar före mötet publiceras på förbundets officiella hemsida, samt sändas till Specialdistriktsförbunden (SDF) för distribution till föreningarna.
 Beslut i fråga av större ekonomisk betydelse får inte fattas om den inte finns med i kallelsen till stämman
 
 §21. Ärenden vid förbundsstämma
+
        Vid förbundsstämman skall följande ärenden förekomma:
 Upprop samt fastställande av röstlängd för mötet.
 Fastställande av föredragningslista för mötet.
@@ -159,12 +180,15 @@ Fastställande av inkomst- och utgiftstat (Budget) för nästkommande år.
 Beslut om val av ombud till Riksidrottsförbundets (RF:s) stämma och erfoderligt antal suppleanter.
 
 §22. Förslag till ärenden att behandlas vid förbundsstämma
+
 Förslag till ärenden att behandlas vid förbundsstämma skall vara förbundsstyrelsen (FS) tillhanda senast den 1 april mötesåret. Rätt av avge förslag tillkommer förening, Specialdistriktsförbund (SDF) och förbundsstyrelsen (FS)
 
 §23. Utseende av ombud till Riksidrottsförbundets (RF) stämma
+
 Ombud till riksidrottsstämma och erforderligt antal suppleanter utses enligt 4 kap 2§ Riksidrottsförbundets (RF:s) stadgar. Ombud skall utses av förbundsstämman eller om stämman så har beslutat, av förbundsstyrelsen (FS). Meddelande om vilka ombud som utsetts insänds snarast möjligt till Riksidrottsförbundet (RF) samt underrättas till de utsedda.
 
 §24. Extra förbundsstämma
+
 Förbundsstyrelsen (FS) får sammankalla till extra förbundsstämma om sådan behövs.
 Vidare är förbundsstyrelsen (FS) skyldig att kalla till extra förbundsstämma, när en revisor begär det eller det begärs av föreningar som tillsammans utgör minst 25% av det licensierade föreningsmedlemsantalet inom förbundet eller 50% av Specialdistriktsförbunden (SDF).
 När förbundsstyrelsen (FS) mottagit en begäran om extra förbundsstämma skall den inom 14 dagar kalla till sådan stämma att hållas inom två månader. Kallelse med förslag till föredragningslista skall vara Specialdistriktsförbunden (SDF) tillhanda senast sju dagar före stämman.
@@ -174,6 +198,7 @@ Extra förbundsstämma får inte äga rum under tid då Riksidrottsförbundets s
 Om sammansättning av rösträtt på extra förbundsstämma samt om beslutsmässighet, yttrande- och förslagsrätt vid sådan stämma, gäller vad som sägs i §17-§19 om förbundsstämma.
 
 §25. Valberedningen
+
 Valberedningen skall bestå av fyra ledamöter valda av förbundsmötet.
 Valberedningen utser bland sina ledamöter ordförande samt tillsätter sekreterare.
 Valberedningen sammanträder på kallelse av ordföranden eller minst halva antalet ledamöter.
@@ -186,6 +211,7 @@ Om arbetstagares valbarhet stadgas i 14§.
 ## Förbundsstyrelsen (FS)
 
 §26. Sammansättning samt kallelse och beslutsmässighet
+
 Förbundsstyrelsen (FS) är, när förbundsstämma inte är samlad, förbundets beslutande organ.
 För alla beslut krävs enkel majoritet och att minst 50% av FS ledarmöter är närvarande.
 Styrelsen tillsätter sekreterare inom sig.
@@ -194,6 +220,7 @@ Styrelsen får överlåta sin beslutanderätt i vissa av ärenden till utskott s
 Den som fattat beslut med stöd av bemyndigande enligt föregående stycke skall regelbundet underrätta syrelsen härom.
 
 §27. Förbundsstyrelsen (FS) åligganden
+
 Åt förbundsstyrelsen åligger bl.a:
 Att bedriva sin verksamhet enligt dessa stadgar och förbundsstämmans beslut
 Att verka för dartsportens utveckling och utbredning inom Sverige samt gentemot utlandet
@@ -216,6 +243,7 @@ Att se till att Svenska Dartförbundets (SvDF:s)aktuella stadgar och styrelsepro
 Att på alla tänkbara sätt hjälpa föreningarna i deras arbete med erforderliga dokument och handlägga löpande ärenden i övrigt.
 
 §28. Prövningsrätt
+
 Förbundsstyrelsen (FS) utövar prövningsrätt enligt 14 och 15 kap Riksidrottsförbundets (RF:s) stadgar.
 Med stöd av 14 kap 8§ första stycket Riksidrottsförbundets (RF:s) stadgar förbehålls förbundsstyrelsen bestraffningsrätten avseende samtliga förseelser.
 Förbundsstyrelsen får enligt 14 kap 8§ fjärde stycket Riksidrottsförbundets (RF:s) stadgar överlåta sin bestraffningsrätt till något av sina organ.
@@ -223,22 +251,26 @@ Förbundsstyrelsen får enligt 14 kap 8§ fjärde stycket Riksidrottsförbundets
 ## Specialdistriktsförbund (SDF)
 
 §29. Specialdistriktsförbund (SDF)
+
 Specialdistriktsförbund (SDF), som är ideella föreningar, skall enligt dessa (SvDF:s) stadgar och Specialdistriktsförbundets (SDF:s) stadgar arbeta såsom Svenska Dartförbundets regionala organ i enlighet med Svenska Dartförbundets ändamål enligt §1.
 Dartsportens SDF är indelat utifrån av Förbundsstyrelsen (FS) beslutade sammanslagningar av DF med dartverksamhet. Dessa är organ för Svenska Dartförbundets regionala verksamhet.
 Förening tillhör det Specialdistriktsförbund (SDF) inom vars geografiska område föreningen har sin hemort.
 
 §30. Specialdistriktsförbundens (SDF) gränser
+
 Specialdistriktsförbunden (SDF) skall om möjligt representera samma geografiska område som ett RF-Distrikt (DF). Är detta inte möjligt skall befintligt Specialdistriktsförbund tillsammans med annat ansöka hos Förbundsstyrelsen om sammanslagning.
 Specialdistriktsförbundens (SDF) namn skall om det sammanfaller med samma geografiska utbredning som ett RF-Distrikt (DF) bära samma geografiska namn. Om Specialdistriktsförbundet är en sammanslagning av flera RF-Distrikt (DF) skall de bära ett namn som geografiskt beskriver dess lokalisering. Namnet skall godkännas av Förbundsstyrelsen (FS).
 Alla Specialdistriktsförbund (SDF) skall heta Dartförbund.
 
 §31. Specialdistriktsförbundens (SDF:s) stadgar
+
 Specialdistriktsförbundens (SDF:s) stadgar skall följa de av Svenska Dartförbundet (SvDF) fastslagna och av Riksidrottsförbundets styrelse (RS) granskade normalstadgar för Specialdistriktsförbund (SDF).
 Svenska Dartförbundet skall godkänna de av Specialdistriktsförbunds (SDF:s) -mötet antagna stadgarna. Svenska Dartförbundet har rätt att påtala ändring av stadgarna om de strider mot normalstadgarna eller på annat sätt anses vara olämpliga.
 
 ## Föreningarna
 
 §33. Medlemskap i Svenska Dartförbundet (SvDF)
+
 Ideell förening får efter skriftlig ansökan upptas som medlem i Svenska Dartförbundet (SvDF) om samtliga av nedanstående villkor är uppfyllda.
 Ansökningen om medlemskap är upprättad enligt Riksidrottsförbundet (RF:s) anvisningar och är åtföljd av föreningens stadgar.
 Föreningen på sitt program har sådan dartverksamhet som innefattas i förbundet.
@@ -248,6 +280,7 @@ Föreningen har betalat de avgifter som i vederbörlig ordning har bestämts.
 Lämnas förenings ansökan utan bifall, får föreningen överklaga beslutet enligt reglerna i 15 kap Riksidrottsförbundets (RF:s) stadgar
 
 §34. Utträde samt uteslutning av förening
+
 Förening som önskar utträda ur Svenska Dartförbundet (SvDF), skall skriftligen anmäla detta. Har föreningen inte betalat föreskrivna avgifter, bestämmer förbundsstyrelsen (FS) om de skall betalas eller inte.
 Förening som inte har betalat årsavgift under två på varandra följande år, får anses ha begärt sitt utträde. Medlemskap upphör i sådant fall genom att föreningen avförs från medlemsförteckningen.
 Utan att anmälan om utträde föreligger får förening uteslutas om den – trots påminnelser underlåter att följa vad som föreskrivs i dessa (SvDF) stadgar eller Riksidrottsförbundets (RF:s) stadgar.
@@ -256,12 +289,15 @@ Fråga om uteslutning får inte avgöras förrän föreningen har fått tillfäl
 Beslut om uteslutning får överklagas enligt reglerna i 15 kap Riksidrottsförbundets (RF:s) stadgar.
 
 §35. Specialdistriktsförbundstillhörighet
+
 Förening tillhör dels det Specialdistriktsförbund (SDF) inom vars område föreningens hemort är belägen och dels det RF-Distrikt (DF) inom vilket föreningens hemort är belägen.
 
 §36. Rösträtt vid Specialdistriktsförbundsmöte
+
 Om förenings rösträtt vid Specialdistriktsförbunds (SDF)-möte föreskrivs i Specialdistriktsförbundets (SDF:s) stadgar.
 
 §37. Åligganden
+
 Förening skall
 Följa Riksidrottsförbundets (RF:s) stadgar samt Svenska Dartförbundets (SvDF:s) stadgar, tävlingsbestämmelser, seriebestämmelser, bestraffningsbestämmelser,  övriga bestämmelser och beslut fattade av överordnat idrottsorgan,
 årligen betala årsavgift och avge årsrapport samt till Svenska Dartförbundet(SvDF) insända sin verksamhetsredovisning och årsbokslut för sist förflutna verksamhetsår.
@@ -271,6 +307,7 @@ hålla årsmöte och härvid, efter verkställd revision, besluta om ansvarsfrih
 på begäran av Riksidrottsförbundets styrelse(RS), förbundsstyrelsen (FS) eller vederbörande Regionsstyrelsen (SDFS)- eller DFstyrelse ställa föreningens handlingar till förfogande, samt lämna av dessa organ begärda uppgifter.
 
 §38. Medlemmar i förening
+
 Enskild person upptas som medlem i förening efter ansökan.
 Ansökan om medlemskap får avslås endast om det kan antas att sökanden kommer att motarbeta föreningens ändamål eller intressen.
 Medlem får inte uteslutas av annan anledning än att medlemmen har försummat att betala stadgade avgifter till föreningen, motarbetat dess verksamhet eller ändamål, eller uppenbarligen skadat föreningen intressen.
@@ -278,6 +315,7 @@ Beslut om vägrat medlemskap eller om uteslutning skall fattas av föreningsstyr
 Medlem har rätt att delta i föreningens idrottsliga verksamhet under de former som är vedertagna inom idrotten och på samma villkor som gäller för övriga medlemmar.
 
 §39. Spelarlicens
+
 För deltagande i av Svenska Dartförbundet (SvDF), Regionen (SDF) eller Dartdistriktet (DD) sanktionerad eller arrangerad tävling krävs, om ej annat sägs i Svenska Dartförbundets (SvDF:s) tävlingsbestämmelser, att spelaren innehar spelarlicens i Svenska Dartförbundet (SvDF) för en i Svenska Dartförbundet (SvDF) registrerad förening. Rapportering av spelaruppgifter skall ske i enlighet med av förbundsstyrelsen (FS) meddelad ordning.
 
 ## Revisorer och revision
