@@ -43,6 +43,7 @@ Mom 1. Föreningar har rätt att bli medlem i Svenska Frisbeesportförbundet.
 För att bli medlem ska föreningar skriftligen ansöka om detta hos
 förbundsstyrelsen. Ansökan ska vara upprättad enligt Riksidrottsstyrelsens
 anvisningar och vara åtföljd av föreningens stadgar.
+
 Förbundsstyrelsen beviljar föreningen inträde i Svenska Frisbeesportförbundet.
 Är föreningen inte redan medlem i annat specialförbund, får inte ansökan
 beviljas förrän Riksidrottsförbundet godkänt föreningens namn och stadgar.
@@ -51,6 +52,7 @@ från Riksidrottsförbundets normalstadgar för idrottsföreningar, att förenin
 har erlagt årsavgiften för det löpande verksamhetsåret samt att dess namn inte
 bedöms som olämpligt eller kan medföra förväxling med förening som tidigare
 har blivit och alltjämt är medlem i Riksidrottsförbundet.
+
 Avslås ansökan ska föreningen underrättas och delges skäl för avslaget. Beslutet
 får av förening överklagas hos Riksidrottsnämnden i enlighet med
 Riksidrottsförbundets stadgar kapitel 15.
@@ -309,6 +311,7 @@ Mom 1. Årsmötet är beslutsmässigt med det antal ombud, som efter kallelse de
 Mom 2. Vid röstning har varje röstberättigad förening eller distriktsförbund en röst.
 Ombud får endast representera endera föreningen eller distriktsförbund. Ombud
 får endast representera en förening vilken man är medlem i.
+
 För beslut krävs mer än hälften av angivna röster. Vid lika röstetal gäller den
 uppfattning som biträds av årsmötets sittande ordförande. För beslut om tillägg
 till årsmötesdagordningen, stadgeändring, ändring av avgifter liksom beslut om
@@ -365,6 +368,7 @@ Mom 2. Medlem och klubb har rätt att få motion behandlad av distriktets årsm�
 Mom 1. Medlem och klubb, har rätt att när som helst inkomma med motioner eller
 förslag till förbundsstyrelsen som ska lämna medlemmen besked om hur
 motionen kommer att hanteras inom tre månader.
+
 Är medlemmen eller klubben inte nöjd med styrelsens svar kan medlemmen
 eller klubben begära att frågan tas upp på nästa förbundsårsmöte.
 
