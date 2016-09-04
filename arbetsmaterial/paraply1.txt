@@ -1,6 +1,7 @@
 Anteckningar
 ===========
 
+Se över 3.1 Mom 1.
 Se över 3.1 Mom 6?
 Se över 3.2 Mom 8?
 
@@ -51,16 +52,16 @@ Mom 1. Förbundets verksamhet bedrivs inom de anslutna Underförbunden (UF) som 
 disciplinerna Allround, Discgolf och Ultimate. UF styr självständigt sin
 verksamhet utan påverkan från förbundet. Förbundets uppgift är att representera 
 Svensk Frisbeesport inför Riksidrottsförbundet, Internationella Frisbeeförbundet och 
-Europeiska Frisbeeförbundet.
+Europeiska Frisbeeförbundet samt att administrera licens- och klubbavgifter.
 
 Mom 2. Förbundets ska ha en administration som är ändamålsenlig i förhållande till sin
 uppgift. 
 
 Mom 3. UF är egna juridiska personer men ska följa de bestämmelser som reglerar deras 
-förhållande till Förbundet enligt dessa stadgar. UF som inte följer dessa bestämmelser 
+förhållande till förbundet enligt dessa stadgar. UF som inte följer dessa bestämmelser 
 kan uteslutas av förbundsstämman.
 
-Mom 4. UF:s stadgeändringar ska godkännas av Förbundsstyrelsen, varvid enkel majoritet tillämpas.
+Mom 4. UF:s stadgeändringar ska godkännas av förbundsstyrelsen, varvid enkel majoritet tillämpas.
 
 Mom 5. UF:s verksamhets- och räkenskapsår ska sammanfalla med Förbundets.
 
@@ -68,20 +69,42 @@ Mom 6. UF:s årsstämma ska äga rum före Förbundsstämman.
 
 
 
-3 EKONOMI (före avsnittet FÖRBUNDSSTYRELSEN)
+3 EKONOMI (före avsnittet FÖRBUNDSSTYRELSEN. Avsnitt 8 ÄNDRING AV LICENS- OCH KLUBBAVGIFT stryks)
 
 § 3.1 Förbundets kostnader
 
 Förbundet har endast rätt att ta ut en avgift från UF för att täcka de kostnader som är 
 nödvändiga för att förbundet ska kunna fullfölja sin uppgift enligt §1.5 Mom 1.
 
-
-§ 3.2 Fördelning av intäter
+§ 3.2 Fördelning av intäkter
 
 Intäkter som tillfaller förbundet skall direkt, endast med avdrag för att täcka kostnader 
 enligt § 3.1, tillfalla det UF som genererat intäkten. Detta innefattar, men begränsas 
 ej till, statliga bidrag och bidrag från RF samt SISU.
 
+§ 3.3 Ändring av licens- och klubbavgift
+
+För ändring av licens- och klubbavgiften krävs att minst två tredjedelar av
+årsmötets ledamöter är ense om beslutet.
+
+§ 3.4 Förbundsavgift och fördelningsnyckel för att fördela intäkter mellan UF
+
+Mom 1. I kallelse till årsmöte ska förbundsstyrelsen föreslå förbundsavgift och 
+fördelningsnyckel för att fördela intäkter mellan UF för kommande år i enlighet med
+§3.1 och §3.2.
+
+Mom 2. Om Svenska Frisbeesportförbundets ekonomi under perioden mellan årsmötena
+väsentligt försämras på så sätt som inte kunnat förutses av årsmötet, kan
+förbundsstyrelsen besluta om temporär ändring av förbundsavgiften.
+Sådant beslut gäller som längst till och med månaden efter nästföljande årsmöte.
+
+
+
+4 ÅRSMÖTE
+
+§ 4.4 Mom 1.
+
+- Fastställande av förbundsavgift och fördelningsnyckel för att fördela intäkter mellan UF för kommande år
 
 
 NUVARANDE STADGAR
