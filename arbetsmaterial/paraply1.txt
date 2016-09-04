@@ -1,13 +1,11 @@
 Anteckningar
 ===========
 
-Uppdat 1.4 Organisation
-
-Se över 3.1 Mom 6
-Se över 3.2 Mom 8
+Se över 3.1 Mom 6?
+Se över 3.2 Mom 8?
 
 
-NYA DELAR FRÅN BUDOFÖRBUNDET
+INPUT FRÅN BUDOFÖRBUNDET
 ============================
 
 4§ Anslutna Underförbund
@@ -44,17 +42,75 @@ insyn kan säkerställas och ske utan olägenhet för förbundet.
 majoritet och går i verkställighet omedelbart.
 
 
+NYA AVSNITT I STADGARNA
+========================
+
+§ 1.5 Anslutna Underförbund
+
+Mom 1. Förbundets verksamhet bedrivs inom de anslutna Underförbunden (UF) som representerar 
+disciplinerna Allround, Discgolf och Ultimate. UF styr självständigt sin
+verksamhet utan påverkan från förbundet. Förbundets uppgift är att representera 
+Svensk Frisbeesport inför Riksidrottsförbundet, Internationella Frisbeeförbundet och 
+Europeiska Frisbeeförbundet.
+
+Mom 2. Förbundets ska ha en administration som är ändamålsenlig i förhållande till sin
+uppgift. 
+
+Mom 3. UF är egna juridiska personer men ska följa de bestämmelser som reglerar deras 
+förhållande till Förbundet enligt dessa stadgar. UF som inte följer dessa bestämmelser 
+kan uteslutas av förbundsstämman.
+
+Mom 4. UF:s stadgeändringar ska godkännas av Förbundsstyrelsen, varvid enkel majoritet tillämpas.
+
+Mom 5. UF:s verksamhets- och räkenskapsår ska sammanfalla med Förbundets.
+
+Mom 6. UF:s årsstämma ska äga rum före Förbundsstämman.
 
 
-UTKAST
-======
+
+3 EKONOMI (före avsnittet FÖRBUNDSSTYRELSEN)
+
+§ 3.1 Förbundets kostnader
+
+Förbundet har endast rätt att ta ut en avgift från UF för att täcka de kostnader som är 
+nödvändiga för att förbundet ska kunna fullfölja sin uppgift enligt §1.5 Mom 1.
+
+
+§ 3.2 Fördelning av intäter
+
+Intäkter som tillfaller förbundet skall direkt, endast med avdrag för att täcka kostnader 
+enligt § 3.1, tillfalla det UF som genererat intäkten. Detta innefattar, men begränsas 
+ej till, statliga bidrag och bidrag från RF samt SISU.
+
+
+
+NUVARANDE STADGAR
+=================
+
+Innehåll
+--------
+
+1 SVENSKA FRISBEESPORTFÖRBUNDETS VÄRDERINGAR, UPPGIFT OCH ORGANISATION
+2 MEDLEMSKAP
+3 FÖRBUNDSSTYRELSEN
+4 ÅRSMÖTE
+5 MOTIONER
+6 REVISION
+7 STADGAR
+8 ÄNDRING AV LICENS- OCH KLUBBAVGIFT
+9 HEDERSMEDLEM
+
+
+
+Stadgar
+-------
 
 
 Svenska Frisbeesportförbundet
 
 STADGAR FÖR SVENSKA FRISBEESPORTFÖRBUNDET
 
-1. SVENSKA FRISBEESPORTFÖRBUNDETS VÄRDERINGAR, UPPGIFT OCH ORGANISATION
+1 SVENSKA FRISBEESPORTFÖRBUNDETS VÄRDERINGAR, UPPGIFT OCH ORGANISATION
 
 § 1.1 Svenska Frisbeesportförbundets värderingar
 
@@ -182,7 +238,7 @@ Mom 1. Medlem ska verka för Svenska Frisbeesportförbundets sammanhållning och
 utveckling samt rätta sig efter Svenska Frisbeesportförbundets stadgar och
 stadgeenligt fattade beslut.
 
-3 Förbundsstyrelse
+3 FÖRBUNDSSTYRELSEN
 
 § 3.1 Förbundsstyrelsen
 
@@ -264,7 +320,7 @@ Mom 3. Förbundsstyrelsen får i enlighet med Riksidrottsförbundets stadgar kap
 är den enda instansen för handläggning av bestraffningsärenden inom Svenska
 Frisbeesportförbundet.
 
-4 Årsmöte
+4 ÅRSMÖTE
 
 § 4.1 Årsmöte
 
@@ -392,7 +448,7 @@ distriktsstyrelsen.
 Mom 4. Tjänsteman inom Riksidrottsförbundets organisation är inte valbar som revisor i
 Svenska Frisbeesportförbundet eller distriktsförbundet.
 
-5 Motioner
+5 MOTIONER
 
 § 5.1 Motionsrätt
 Motionsrätt till klubb- region- och förbundsårsmöte samt förbundsstyrelse har
@@ -439,7 +495,7 @@ Mom 4. Då extra årsmöte inkallats för att behandla utredning eller förslag 
 förbundsstyrelsen skickat till klubbarna för yttrande ska deras yttrande på extra
 årsmötet behandlas som inlämnade motioner.
 
-6 Revision
+6 REVISION
 
 § 6.1 Revision
 
@@ -460,7 +516,7 @@ Mom 4. Om förbundsstyrelsen inte kan lämna tillfredsställande förklaring öv
 synnerligen viktig anmärkning mot förvaltning eller räkenskaper ska revisorerna
 snarast underrätta klubbarna och distrikten.
 
-7 Stadgar
+7 STADGAR
 
 § 7.1 Stadgar
 
@@ -483,7 +539,7 @@ Mom 3. Ändring av § 10 och detta moment kan inte ske i annan ordning är som a
 Mom 4. Mellan årsmötena tolkar förbundsstyrelsen Svenska Frisbeesportförbundets
 stadgar och kan ge dispens från dessa i formella frågor.
 
-8 Ändring av licens- och klubbavgift
+8 ÄNDRING AV LICENS- OCH KLUBBAVGIFT
 
 § 8.1 Ändring av licens- och klubbavgift
 
@@ -495,14 +551,14 @@ väsentligt försämras på så sätt som inte kunnat förutses av årsmötet, k
 förbundsstyrelsen besluta om temporär ändring av licens- och klubbavgiften.
 Sådant beslut gäller som längst till och med månaden efter nästföljande årsmöte.
 
-9 Hedersmedlem
+9 HEDERSMEDLEM
 
 § 9.1 Hedersmedlem
 
 Mom 1. Årsmötet kan utifrån nominering av förbundsstyrelsen utse person till
 hedersmedlem i Svenska Frisbeesportförbundet.
 
-10 Upplösning av Svenska Frisbeesportförbundet
+10 UPPLÖSNING AV SVENSKA FRISBEESPORTFÖRBUNDET
 
 § 10.1 Upplösning av Svenska Frisbeesportförbundet
 
