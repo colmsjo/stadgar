@@ -46,58 +46,6 @@ majoritet och går i verkställighet omedelbart.
 NYA AVSNITT I STADGARNA
 ========================
 
-§ 1.5 Anslutna Underförbund
-
-Mom 1. Förbundets verksamhet bedrivs inom de anslutna Underförbunden (UF) som representerar 
-disciplinerna Allround, Discgolf och Ultimate. UF styr självständigt sin
-verksamhet utan påverkan från förbundet. Förbundets uppgift är att representera 
-Svensk Frisbeesport inför Riksidrottsförbundet, Internationella Frisbeeförbundet och 
-Europeiska Frisbeeförbundet samt att administrera licens- och klubbavgifter.
-
-Mom 2. Förbundets ska ha en administration som är ändamålsenlig i förhållande till sin
-uppgift. 
-
-Mom 3. UF är egna juridiska personer men ska följa de bestämmelser som reglerar deras 
-förhållande till förbundet enligt dessa stadgar. UF som inte följer dessa bestämmelser 
-kan uteslutas av förbundsstämman.
-
-Mom 4. UF:s stadgeändringar ska godkännas av förbundsstyrelsen, varvid enkel majoritet tillämpas.
-
-Mom 5. UF:s verksamhets- och räkenskapsår ska sammanfalla med Förbundets.
-
-Mom 6. UF:s årsstämma ska äga rum före Förbundsstämman.
-
-
-
-3 EKONOMI (före avsnittet FÖRBUNDSSTYRELSEN. Avsnitt 8 ÄNDRING AV LICENS- OCH KLUBBAVGIFT stryks)
-
-§ 3.1 Förbundets kostnader
-
-Förbundet har endast rätt att ta ut en avgift från UF för att täcka de kostnader som är 
-nödvändiga för att förbundet ska kunna fullfölja sin uppgift enligt §1.5 Mom 1.
-
-§ 3.2 Fördelning av intäkter
-
-Intäkter som tillfaller förbundet skall direkt, endast med avdrag för att täcka kostnader 
-enligt § 3.1, tillfalla det UF som genererat intäkten. Detta innefattar, men begränsas 
-ej till, statliga bidrag och bidrag från RF samt SISU.
-
-§ 3.3 Ändring av licens- och klubbavgift
-
-För ändring av licens- och klubbavgiften krävs att minst två tredjedelar av
-årsmötets ledamöter är ense om beslutet.
-
-§ 3.4 Förbundsavgift och fördelningsnyckel för att fördela intäkter mellan UF
-
-Mom 1. I kallelse till årsmöte ska förbundsstyrelsen föreslå förbundsavgift och 
-fördelningsnyckel för att fördela intäkter mellan UF för kommande år i enlighet med
-§3.1 och §3.2.
-
-Mom 2. Om Svenska Frisbeesportförbundets ekonomi under perioden mellan årsmötena
-väsentligt försämras på så sätt som inte kunnat förutses av årsmötet, kan
-förbundsstyrelsen besluta om temporär ändring av förbundsavgiften.
-Sådant beslut gäller som längst till och med månaden efter nästföljande årsmöte.
-
 
 
 4 ÅRSMÖTE
@@ -148,23 +96,43 @@ representation i Svenska Frisbeesportförbundets alla demokratiska organ.
 
 § 1.2 Svenska Frisbeesportförbundets uppgift
 
-Svenska Frisbeesportförbundet har till uppgift att förena och företräda
-medlemmarna samt främja frisbeesportens utveckling och utbredning i Sverige.
+Svenska Frisbeesportförbundet har till uppgift att som paraplyförbund förena och företräda grenförbunden och medlemmarna, samt främja frisbeesportens utveckling och utbredning i Sverige.
 
 § 1.3 Svenska Frisbeesportförbundets organisationsområde
 
-Svenska Frisbeesportförbundet omfattar alla föreningar som beviljats inträde av
-förbundsstyrelsen.
+Svenska Frisbeesportförbundet omfattar ansluta grenförbund samt alla föreningar som beviljats inträde av Förbundsstyrelsen samt minst ett av grenförbunden.
 
 § 1.4 Svenska Frisbeesportförbundets organisation
 
 Svenska Frisbeesportförbundets verksamhet utövas
 - lokalt – genom föreningar
 - distrikt – genom distriktsstyrelsen
-- nationellt – genom årsmöte, förbundsstyrelse och förbundskansli
+- nationellt – genom årsmöte, förbundsstyrelse, förbundskansli och grenförbunden
 - internationellt – genom Internationella Frisbeeförbundet (World Flying Disc
 Federation), Europeiska Frisbeeförbundet (European Flying Disc
 Federation)
+
+§ 1.5 Anslutna Grenförbund
+
+Mom 1. Svenska frisbeesportbundets (härefter benämnt “förbundet”) idrottsliga verksamhet bedrivs inom de anslutna grenförbunden (GF) för Allround, Discgolf och Ultimate.
+
+Mom 2. För anslutning eller uteslutning av GF krävs beslut av i stadgeenlig ordning utlyst årsmöte. För sådant beslut krävs att ärendet är upptaget i kallelsen och att minst två tredjedelars majoritet av de röstande är ense om beslutet.
+
+Mom 3. En idrott kan inte administreras av mer än ett GF.
+
+Mom 4. Förbundets ska representera och företräda GF gentemot Riksidrottsförbundet (RF), Internationella Frisbeeförbundet (World Flying Disc Federation) och Europeiska Frisbeeförbundet (European Flying Disc Federation) samt administrera förbundets förenings- och licensavgifter.
+(Vad med upprätta förbundet, tex årsmöteshandlingar och genomgöra årsmöte, gemensam sportchef?)
+
+Mom 4. GF ska bedriva sin verksamhet i enlighet med förbundets och RF:s stadgar. Därutöver bedriver varje GF sin verksamhet självständigt.
+
+
+Mom 5. Varje GF är en egen juridisk person med ett eget förvaltningsansvar.
+
+Mom 6. Stadgeändringar för GF ska godkännas av förbundsstyrelsen, varvid enkel majoritet tillämpas.
+
+Mom 7. GS:s verksamhets- och räkenskapsår ska sammanfalla med förbundets.
+
+Mom 8. Årsmöte för GF ska äga rum före förbundets årsmöte. Årsmöte för GF ska ej äga rum samtidigt som varandra.
 
 2 MEDLEMSKAP
 
@@ -172,16 +140,12 @@ Federation)
 
 Mom 1. Föreningar har rätt att bli medlem i Svenska Frisbeesportförbundet.
 För att bli medlem ska föreningar skriftligen ansöka om detta hos
-förbundsstyrelsen. Ansökan ska vara upprättad enligt Riksidrottsstyrelsens
-anvisningar och vara åtföljd av föreningens stadgar.
+Förbundsstyrelsen och minst ett grenförbund. Ansökan ska vara upprättad enligt Riksidrottsstyrelsens anvisningar och vara åtföljd av föreningens stadgar.
 
 Förbundsstyrelsen beviljar föreningen inträde i Svenska Frisbeesportförbundet.
 Är föreningen inte redan medlem i annat specialförbund, får inte ansökan
 beviljas förrän Riksidrottsförbundet godkänt föreningens namn och stadgar.
-För föreningens anslutning krävs att dess stadgar inte innebär principiella avsteg
-från Riksidrottsförbundets normalstadgar för idrottsföreningar, att föreningen
-har erlagt årsavgiften för det löpande verksamhetsåret samt att dess namn inte
-bedöms som olämpligt eller kan medföra förväxling med förening som tidigare
+För föreningens anslutning krävs samtidigt godkännande av minst ett grenförbund, att dess stadgar inte innebär principiella avsteg från Riksidrottsförbundets normalstadgar för idrottsföreningar, att föreningen har erlagt årsavgiften för det löpande verksamhetsåret, samt att dess namn inte bedöms som olämpligt eller kan medföra förväxling med förening som tidigare
 har blivit och alltjämt är medlem i Riksidrottsförbundet.
 
 Avslås ansökan ska föreningen underrättas och delges skäl för avslaget. Beslutet
@@ -221,15 +185,14 @@ Mom 7. Överklagande av beslut kan göras hos Riksidrottsnämnden.
 
 § 2.3 Distriktstillhörighet
 
-Mom 1. Förening tillhör distriktsförbund inom vars gränser föreningens hemort är
-belägen.
+Mom 1. Förening tillhör distriktsförbund inom vars gränser föreningens hemort är belägen.
 
 § 2.4 Medlemmars demokratiska rättigheter
 
 Mom 1. Medlemmar som löst medlemsavgift i förening
 - har motionsrätt till föreningen, distriktet och förbundet
 - har rösträtt på föreningens årsmöte
-- har rätt att föreslå personer till val i föreningen, distriktet och förbundet
+- har rätt att föreslå personer till val i föreningen, distriktet, grenförbundet och förbundet
 - har rätt att inneha förtroendeuppdrag i och för förbundet.
 
 Mom 2. Medlem som anser sig ha lidit orätt genom beslut, åtgärd eller underlåtelse av
@@ -248,7 +211,7 @@ utan att först ha fått sitt deltagande beviljat av Svenska Frisbeesportförbun
 Mom 3. Medlem som tänker delta i tävling eller uppvisning, som arrangeras av
 arrangörer som inte är anslutna till Svenska Frisbeesportförbundet, som är
 organiserat för att omhänderha den idrottsgren vilken tävlingen eller
-uppvisningen gäller, får endast göra detta efter beviljande av förbundsstyrelsen.
+uppvisningen gäller, får endast göra detta efter beviljande av förbundsstyrelsen grenförbundet.
 
 Mom 4. Medlem som vill delta i av Svenska Frisbeesportförbundet sanktionerad tävling
 ska erlägga av förbundsårsmötet fastställd licensavgift och av föreningen
@@ -261,6 +224,40 @@ Mom 1. Medlem ska verka för Svenska Frisbeesportförbundets sammanhållning och
 utveckling samt rätta sig efter Svenska Frisbeesportförbundets stadgar och
 stadgeenligt fattade beslut.
 
+3 EKONOMI
+
+
+§ 3.1 Förbundets administration och kostnader
+
+Mom 1. Förbundet ska ha en administration som är ändamålsenlig i förhållande till sin uppgift. Förbundet har endast rätt att ta ut en årlig administrationsavgift från varje GF för att täcka nödvändiga kostnader för att förbundet ska kunna fullfölja sin uppgift enligt § 1.5 Mom 2.
+
+§ 3.2 Fördelning av intäkter
+
+Mom 1. Alla intäkter som tillfaller förbundet skall direkt, endast med avdrag enligt § 3.1, tillfalla det GF som genererat intäkten.
+
+Mom 2. För att avgöra hur stor del varje GF genererat av statsanslaget tillämpas samma ekonomiska fördelningsnyckel som RF tillämpar för specialidrottsförbunden. (nyckeln borde denna vara med i våra stadgar, och endast kunna ändras som stadgeförändring vid årsmöte?)
+
+Mom 3. För att avgöra hur intäkter genereras skall alla verksamheter och aktiviteter GF-märkas.
+
+Mom 4. Intäkt som ej kan härledas till GF enligt § 3.2 Mom 1-3, skall tillfalla GF med samma fördelning som alla övriga fördelade intäkter tillsammans.
+
+men begränsas ej till, statliga bidrag och bidrag från RF samt SISU. Lite osäker om man ska nämna något spec här?
+
+§ 3.3 Ändring av licens- och klubbavgift
+
+För ändring av licens- och klubbavgiften krävs att minst två tredjedelar av
+årsmötets ledamöter är ense om beslutet.
+
+§ 3.4 Administrationsavgift och fördelning av intäkter till GF
+
+Mom 1. Förbundsstyrelsen skall ihop med kallelse till årsmöte lämna en budgetproposition.
+
+Mom 2. Budgetpropositionen skall innehålla förslag till administrationsavgift för varje GF enligt § 3.1, samt förslag till intäktsfördelning enligt § 3.2.
+
+Mom 3. Om förbundets ekonomi under perioden mellan årsmötena väsentligen försämras på så sätt som inte kunnat förutses av årsmötet, kan
+förbundsstyrelsen (genom 2/3 delars majoritet?) besluta om temporär ändring av förbundsavgiften. Sådant beslut gäller som längst till och med månaden efter nästföljande årsmöte. (Vad är bakgrunden till denna formulering, särskilt sista meningen? Borde inte förbundet ha en buffert, och ökade kostnader kunna justeras nästkommande år?)
+
+
 3 FÖRBUNDSSTYRELSEN
 
 § 3.1 Förbundsstyrelsen
@@ -268,7 +265,7 @@ stadgeenligt fattade beslut.
 Mom 1. Förbundsstyrelsen leder Svenska Frisbeesportförbundets verksamhet och är
 mellan årsmötena förbundets högsta beslutande organ.
 
-Mom 2. Förbundsstyrelsen består av ordförande och åtta ledamöter däribland vice
+Mom 2. Förbundsstyrelsen består av ordförande och sex ledamöter däribland vice
 ordförande som förbundsstyrelsen utser inom sig.
 
 Mom 3. Förbundsstyrelsens arbete leds av förbundsordföranden, som kallar till
@@ -594,3 +591,6 @@ Mom 2. Har beslut om upplösning fattats ska Svenska Frisbeesportförbundets til
 disponeras enligt det sista årsmötets beslut.
 
 ---[Stadgar för Svenska Frisbeesportförbundet 2014] ---
+
+
+
